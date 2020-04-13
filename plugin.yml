@@ -1,0 +1,6 @@
+name: TGServerSecurity
+main: cc.mcwarzone.TGServerSecurity
+version: 1.0
+softdepend: [Residence]
+commands:
+  bugreload:
